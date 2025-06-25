@@ -32,3 +32,6 @@ This project analyzes Airbnb rental trends in Seattle using Tableau. It focuses 
 - Summer and year-end months are peak revenue periods.
 - Zip codes 98109 and 98105 had both high price and high competition.
 
+### Result
+![Visualisation ](Airbnb-Data Analysis.png)
+
