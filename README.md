@@ -33,6 +33,7 @@ This project analyzes Airbnb rental trends in Seattle using Tableau. It focuses 
 - Zip codes 98109 and 98105 had both high price and high competition.
 
 ### Result
-[![Visualization](Airbnb-Data-Analysis.png)](Airbnb-Data-Analysis.png)
+[![Visualization](Airbnb-Data%20Analysis.png)](Airbnb-Data%20Analysis.png)
+
 
 
