@@ -16,7 +16,8 @@ This project analyzes Airbnb rental trends in Seattle using Tableau. It focuses 
 
 ## 🔗 Tableau Dashboard Link
 
-> View the interactive dashboard here: [Tableau Public – Airbnb Data Analysis]((https://public.tableau.com/app/profile/valli.sisira.sista/viz/AirbnbDataAnalysis_17417233055770/Dashboard1))  
+[View the interactive dashboard on Tableau Public – Airbnb Data Analysis](https://public.tableau.com/app/profile/valli.sisira.sista/viz/AirbnbDataAnalysis_17417233055770/Dashboard1)
+
 
 
 ## 📌 Tools Used
